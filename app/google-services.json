@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "870871020735",
+    "firebase_url": "https://cosmetics-b3c52.firebaseio.com",
+    "project_id": "cosmetics-b3c52",
+    "storage_bucket": "cosmetics-b3c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870871020735:android:590fd1673455ccc2",
+        "android_client_info": {
+          "package_name": "com.android.project.orderfoodsserver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870871020735-lpfeuojj7sk9cagur191cmguascjvull.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.project.orderfoodsserver_app",
+            "certificate_hash": "3f645d665c2b319f2410bb7e5cf781bc797e4088"
+          }
+        },
+        {
+          "client_id": "870871020735-fc72lhorng3b9ph774t05nu4p8t429kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3DaCxRTQ-RYckMRc7S8ipdY9SJ1qJHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870871020735-fc72lhorng3b9ph774t05nu4p8t429kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
